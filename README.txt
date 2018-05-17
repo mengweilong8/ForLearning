@@ -1,1 +1,1 @@
-This repository is just for learn github basic operation.
+This repository is just for learn github basic operation.I guess this project will be finished in a month.
